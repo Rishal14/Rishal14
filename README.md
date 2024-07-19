@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer, and I'm e
 
 ## 🎯 Goals
 
-- [ ] Complete the [Project Name] by [Target Date]
-- [ ] Learn [New Skill/Technology]
-- [ ] Contribute to [Open Source Project]
+
+- [ ] Learn New Skill/Technology
+- [ ] Contribute to Open Source Project
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate.
 

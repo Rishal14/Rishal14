@@ -1,6 +1,6 @@
 # Hi there, I'm Rishal14 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Role], and I'm excited to share my projects and contributions with you.
+Welcome to my GitHub profile! I'm a passionate Frontend Web Developer, and I'm excited to share my projects and contributions with you.
 
 ## 🚀 About Me
 

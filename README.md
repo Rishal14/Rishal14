@@ -1,4 +1,4 @@
-# Hi there, I'm Rishal14 👋
+# Hi there, I'm Rishal D 👋
 
 Welcome to my GitHub profile! I'm a passionate Frontend Web Developer, and I'm excited to share my projects and contributions with you.
 

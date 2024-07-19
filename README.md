@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rishal14 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession/Role], and I'm excited to share my projects and contributions with you.
 
@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role], and I'm e
 
 ## 🌟 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishal14&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishal14&layout=compact&theme=radical)
 
 ## 📈 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishal14&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
@@ -48,4 +48,4 @@ Thank you for visiting my profile! Feel free to explore my repositories and reac
 
 ---
 
-*Generated with ❤️ by [Your GitHub Username]*
+*Generated with ❤️ by Rishal14*

@@ -24,18 +24,11 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role], and I'm e
 - **Frameworks**: ![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📅 My Coding Activity
-
-<!--START_SECTION:activity-->
-1. 📝 Created a new project: [Project Name](link-to-project)
-2. 🔧 Fixed bugs in [Another Project](link-to-another-project)
-<!--END_SECTION:activity-->
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/rishald/)
+- [Personal Website](https://verdant-visual.vercel.app/)
 
 ## 🎯 Goals
 

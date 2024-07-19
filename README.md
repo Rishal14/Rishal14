@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role], and I'm e
 
 ## 🚀 About Me
 
-- 💼 Currently working as a [Your Job Title] at [Your Company].
-- 🌱 I’m currently learning [Current Learning Focus].
-- 💬 Ask me about [Your Expertise/Technologies].
-- 📫 How to reach me: [Your Email] or [Your LinkedIn/Twitter].
+- 💼 CurrentlyCurrently studying Computer Science Engineering with a focus on Data Science.
+- 🌱 I’m currently learning about data analysis, machine learning, and artificial intelligence.
+- 📫 How to reach me: rishald1410@gmail.com
 
 ## 🌟 My GitHub Stats
 

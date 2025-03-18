@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer, and I'm e
 
 ## 🚀 About Me
 
-- 💼 CurrentlyCurrently studying Computer Science Engineering with a focus on Data Science.
+- 💼 Currently studying Computer Science Engineering with Data Science.
 - 🌱 I’m currently learning about data analysis, machine learning, and artificial intelligence.
 - 📫 How to reach me: rishald1410@gmail.com
 
